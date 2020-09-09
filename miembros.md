@@ -1,4 +1,5 @@
 # Miembros
+* Namor
 * Nick fury
 * Black panther
 * Black Widow
